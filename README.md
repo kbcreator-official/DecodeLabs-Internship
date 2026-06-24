@@ -32,10 +32,19 @@
 - Dynamic obstacle detection & avoidance
 - Replanning logic on obstacle detection
 - Terminal-based visualization with path display
+  
+  ## Project 4: PLC-Based Conveyor Sorting System
+**Tools:** Python, Ladder Logic, Industrial Control
+
+**Achievements:**
+- Digital Inputs/Outputs mapping (Sensors, Motors, Pushers)
+- Ladder Logic scan cycle implemented
+- Size-based sorting (Small Left, Large Right)
+- Emergency Stop safety interlock verified
+- 5 boxes successfully sorted in simulation
+
 
 ---
 
-## Internship Details
-- **Batch:** 2026
 - **Powered by:** DecodeLabs
 - **Domain:** Robotics & Automation
